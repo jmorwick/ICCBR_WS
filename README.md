@@ -25,5 +25,5 @@ To prepare the script:
 
 Once you've completed these preparations, you can build the CEUR proceedings and the PDF proceedings by running the build_proceedings.sh script. Please make sure to check the results very carefully! CEUR recommends making the proceedings available on the web for authors to check before the final submission. 
 
-Also note that there is no validation for settings in this script and some issues are not fully resolved. Check the issues listed in this github project and make sure they aren't presenting a problem. 
+Also note that there are no validation for settings in this script and some issues are not fully resolved. Check the issues listed in this github project and make sure they aren't presenting a problem. 
 
