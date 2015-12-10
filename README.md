@@ -3,7 +3,7 @@ ICCBR Workshop proceedings build script for CEUR
 
 To prepare the script:
 * you will need a UNIX/BASH compatible environment to work within
-* download and install cpdf
+* download and install [cpdf](http://community.coherentpdf.com/)
 * clone this git repository
 * update the following in the assets folder:
  * preface.tex - the body of the preface to the edited collection
