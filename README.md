@@ -6,9 +6,9 @@ To prepare the script:
 * download and install cpdf
 * clone this git repository
 * update the following in the assets folder:
-* * preface.tex - the body of the preface to the edited collection
-* * logo.png - displayed across the front page of the proceedings and the CEUR web archive
-* * copywright-footer.pdf - he very least, update the year in this. Each paper will have its front-page stamped at the bottom with this notice.
+** preface.tex - the body of the preface to the edited collection
+** logo.png - displayed across the front page of the proceedings and the CEUR web archive
+** copywright-footer.pdf - he very least, update the year in this. Each paper will have its front-page stamped at the bottom with this notice.
 * update all variables in config/template-config.php
 * update the two variables at the top of build_proceedings.sh
 * create a directory called workshops
