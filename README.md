@@ -1,5 +1,11 @@
+
+
 # ICCBR_WS
 ICCBR Workshop proceedings build script for CEUR
+
+Note: this project has been archived. Remaining issues won't be attended to in this repository. As it has been a number of years since this script was used, CEUR standards have likely changed. Feel free to use this code as a starting point if you are intending to develop your own script. 
+
+The original readme is below
 
 To prepare the script:
 * you will need a UNIX/BASH compatible environment to work within
